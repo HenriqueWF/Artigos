@@ -17,4 +17,3 @@ Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo,
 * [Medium](https://medium.com/@henriquewfranco)
 * [GitHub](https://github.com/HenriqueWF)
 
-Agradeço por visitar este repositório e espero que encontre os artigos informativos e relevantes para a sua busca por conhecimento.
