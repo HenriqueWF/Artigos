@@ -14,6 +14,9 @@ Os artigos estão organizados por conteúdos. Sinta-se à vontade para explorar,
 ## Python
  - [Mapas Interativos com PyDeck: Visualização de Dados Geoespaciais](https://medium.com/@henriquewfranco/mapas-interativos-com-pydeck-visualiza%C3%A7%C3%A3o-de-dados-geoespaciais-1bed2f87d203)
 
+## SQL
+ - [Storytelling com SQL — Analisando dados de RH](https://medium.com/@henriquewfranco/storytelling-com-sql-analisando-dados-de-rh-ce60ec2f3122)
+
 ## Contato
 Estou sempre aberto para sugestões e melhorias! 
 Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo através dos links abaixo:
